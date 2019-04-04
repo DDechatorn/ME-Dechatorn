@@ -66,17 +66,3 @@
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.5em;
   }
-
-  .wrap{
-    padding-top: 100px;
-    background-color: #18BC9C;
-    padding-left: 40px;
-    padding-right: 40px
-  }
-  .wrap h1{
-    color:#fff;
-  }
-
-  section {
-    padding-bottom: 6rem;
-  }
