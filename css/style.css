@@ -22,14 +22,19 @@
     color:#2C3E50;
     font-weight: bold;
   }
-
-  .portfolio p{
+  .contact h1,.contact h2,.contact p
+  {
+    color:#2C3E50;
+    font-weight: bold;
+  }
+  .portfolio p
+  {
     padding-left: 50px;
     font-size: 20px;
   }
 
-  hr.star-light,
-  hr.star-dark {
+  hr.star-light,hr.star-dark
+  {
     max-width: 15rem;
     padding: 0;
     text-align: center;
